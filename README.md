@@ -48,12 +48,7 @@ This will start the development server and open the app in your default web brow
 - **Adding Todos**: Click on the "+" button at the bottom right of the screen to add a new task.
 - **Editing Todos**: Click on a task to edit its title or description.
 - **Deleting Todos**: Click on a task and select the delete option to remove it.
-- **Searching Todos**: Use the search bar to filter tasks by title or description.
-- **Dark/Light Mode**: Toggle between dark and light modes using the button located in the top right corner.
-
-### Dark/Light Mode Toggle
-
-- **Switching Themes**: The toggle button allows you to switch between dark and light modes. This will adjust the overall color scheme of the application.
+- **Searching Todos**: Use the search bar to filter tasks by title or description. 
 
 ### Responsive Design
 
@@ -102,5 +97,3 @@ If you would like to contribute to the project, please fork the repository and c
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework.
 - [React Icons](https://react-icons.github.io/react-icons/) - SVG React Icons.
 - [uuid](https://www.npmjs.com/package/uuid) - A library for generating unique IDs.
-```
- 
