@@ -1,8 +1,15 @@
-export const catagory = [
-    { id: 1, catagory: "Home", emoji: "🏠" },
-    { id: 2, catagory: "Work", emoji: "🏢" },
-    { id: 3, catagory: "Personal", emoji: "👤" },
-    { id: 4, catagory: "Health/Fitness", emoji: "💪" },
-    { id: 5, catagory: "Education", emoji: "📚" },
-    { id: 6, catagory: "Gym", emoji: "🏋️" },
-  ];
+export const category = [
+  { id: 1, category: "Home", emoji: "🏠" },
+  { id: 2, category: "Work", emoji: "🏢" },
+  { id: 3, category: "Personal", emoji: "👤" },
+  { id: 4, category: "Health/Fitness", emoji: "💪" },
+  { id: 5, category: "Education", emoji: "📚" },
+  { id: 6, category: "Gym", emoji: "🏋️" },
+  { id: 7, category: "Shopping", emoji: "🛒" },
+  { id: 8, category: "Finance", emoji: "💰" },
+  { id: 9, category: "Travel", emoji: "✈️" },
+  { id: 10, category: "Hobbies", emoji: "🎨" },
+  { id: 11, category: "Events", emoji: "📅" },
+  { id: 12, category: "Projects", emoji: "📁" },
+  { id: 13, category: "Family", emoji: "👪" },
+];
