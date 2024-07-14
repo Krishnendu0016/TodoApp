@@ -7,7 +7,6 @@ A simple Todo application built with React, Tailwind CSS, and several other mode
 
 - Add, edit, and delete tasks
 - Search for tasks
-- Dark and light mode support
 - Responsive design
 
 ## Installation
