@@ -1,8 +1,7 @@
  
 # Todo App
 
-A simple Todo application built with React, Tailwind CSS, and several other modern libraries. This app allows users to add, edit, delete, and search for tasks, with support for dark and light themes.
-
+A simple Todo application built with React, Tailwind CSS, and several other modern libraries. This app allows users to add, edit, delete, and search for tasks.
 ## Features
 
 - Add, edit, and delete tasks
